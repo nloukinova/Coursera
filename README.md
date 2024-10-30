@@ -1,1 +1,1 @@
-This is where I store my Coursera proejcts
+This is where I store my Coursera projects
